@@ -34,7 +34,7 @@ As some ASCII characters are special (e.g. STX, TAB, CR...) this program only co
 
 If you feel like implementing full Unicode support, go for it! This project is free software and contributions (and feedback) are welcome!
 
-The algorithm itself is very simple and runs at O(n) time as it only needs to go through each character and increment one value. it's only one line of code!
+The algorithm itself is very simple and runs at O(n) time (n being the number of characters) as it only needs to go through each character and increment one value. it's only one line of code!
 
 # Example output
 
